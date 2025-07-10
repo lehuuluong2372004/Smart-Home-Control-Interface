@@ -1,0 +1,18 @@
+.dev:hover {
+    background-color: rgb(150, 51, 196); 
+}
+.dev:hover h3{
+    color: white;
+}
+.dev:hover p{
+    color: white;
+}
+.dev:hover .fa-solid{
+    color: white;
+}
+.dev:hover .slider{
+    background-color: rgb(252, 252, 252);
+}
+.dev:hover .slider::before{
+    background-color:rgb(150, 51, 196) ;
+}
